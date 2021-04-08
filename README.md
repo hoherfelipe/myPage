@@ -1,2 +1,2 @@
 # myPage
-Pagina criada para mostrar minhas habilidades com HTML, CSS e JS.
+Página criada para mostrar minhas habilidades com HTML, CSS e JS.
